@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SysBtn.qml</file>
+        <file>SysBtnGroup.qml</file>
+        <file>Image/close_hover.png</file>
+        <file>Image/close_normal.png</file>
+        <file>Image/close_pressed.png</file>
+        <file>Image/min_hover.png</file>
+        <file>Image/min_normal.png</file>
+        <file>Image/min_pressed.png</file>
+        <file>Image/no.png</file>
+        <file>Image/yes.png</file>
+        <file>DCheckBox.qml</file>
+        <file>DListBoxItem.qml</file>
+        <file>DListBox.qml</file>
+        <file>Image/Bessel.png</file>
+        <file>Image/D3.png</file>
+        <file>Image/Gauss.png</file>
+        <file>D3Window.qml</file>
+        <file>Bessel.qml</file>
+        <file>LeftPanel.qml</file>
+        <file>About.qml</file>
+        <file>DListBoxItem_pic.qml</file>
+        <file>Image/GNU.jpg</file>
+        <file>Image/signature.png</file>
+        <file>Image/About.png</file>
+        <file>Image/About_Selected.png</file>
+        <file>Image/Bessel_Selected.png</file>
+        <file>Image/Gauss_Selected.png</file>
+        <file>Image/D3_Selected.png</file>
+        <file>Gauss.qml</file>
+    </qresource>
+</RCC>
